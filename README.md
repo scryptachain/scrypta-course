@@ -20,30 +20,30 @@ Sebbene la [wiki](https://scrypta.wiki) sia il posto migliore per iniziare a dar
 
 ## Indice del corso
 
-### Blockchain
+### A - Blockchain
 
-1. Com'è fatta la blockchain di Scrypta
-2. Tipologie di nodi e loro utilizzi
-3. Account blockchain, identità e transazioni
-4. Block explorer ed analisi dei dati
-5. I wallet di Scrypta
+01. Come è fatta la blockchain di Scrypta
+02. Tipologie di nodi e loro utilizzi
+03. Account blockchain, identità e transazioni
+04. Block explorer ed analisi dei dati
+05. I wallet di Scrypta
 
-### Strumenti di sviluppo
+### B - Strumenti di sviluppo
 
-6. IdaNode, come installarlo in locale
-7. Core, la libreria Javascript
-8. Interagire con l'IdaNode attraverso Postman
-9. Interagire con l'IdaNode attraverso Core
+06. IdaNode, come installarlo in locale
+07. Core, la libreria Javascript
+08. Interagire con l'IdaNode attraverso Postman
+09. Interagire con l'IdaNode attraverso Core
 
-### Interagire con la blockchain
+### C - Interagire con la blockchain
 
 10. Creiamo il nostro primo wallet blockchain
 11. Inseriamo il nostro primo dato in blockchain
 12. Tecniche di Progressive Data Management
 13. Importanza delle firme blockchain
-14. Panoramica sugli account multifirma
+14. Panoramica sugli account multisignature
 
-### Planum, il layer di tokenizzazione
+### D - Planum, il layer di tokenizzazione
 
 15. Panoramica sul mondo dei token
 16. Approfondimento sulle sidechain
@@ -52,16 +52,16 @@ Sebbene la [wiki](https://scrypta.wiki) sia il posto migliore per iniziare a dar
 19. Come interagire con la sidechain
 20. Tools e software di supporto
 
-### Smart Contracts
+### E - Smart Contracts
 
 21. Panoramica generale
 22. Configurazione ambiente di sviluppo
-23. Pubblicazione dello smart contract
+23. Scrittura e pubblicazione dello smart contract
 24. Interazione attraverso Core
 25. Interazione attraverso IdaNode
 26. Mantenere online uno smart contract
 
-### Creiamo la nostra prima dApp
+### F - Creiamo una dApp
 
 27. Strutturazione progetto frontend
 28. Creazione semplice Smart Contract
@@ -69,8 +69,8 @@ Sebbene la [wiki](https://scrypta.wiki) sia il posto migliore per iniziare a dar
 30. Interazione con lo Smart Contract
 31. Pubblicazione della dApp
 
-### Conclusioni
+### G - Conclusioni
 
 32. Identità digitale decentralizzata
 33. dApp sviluppate da Scrypta Foundation
-34. Contribuire al mondo Scrypta
+34. Contribuire al progetto Scrypta
