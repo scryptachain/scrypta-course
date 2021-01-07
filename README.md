@@ -23,54 +23,55 @@ Sebbene la [wiki](https://scrypta.wiki) sia il posto migliore per iniziare a dar
 ### A - Blockchain
 
 01. [Come è fatta la blockchain di Scrypta](./A_blockchain/01_come_è_fatta_la_blockchain_di_scrypta.md)
-02. Tipologie di nodi e loro utilizzi
-03. Account blockchain, identità e transazioni
-04. Block explorer ed analisi dei dati
-05. I wallet di Scrypta
+02. [Tipologie di nodi e loro utilizzi](./A_blockchain/02_tipologie_di_nodi_e_loro_utilizzi.md)
+03. [Account blockchain, identità e transazioni](./A_blockchain/03_account_blockchain_identità_e_transazioni.md)
+04. [Block explorer ed analisi dei dati](./A_blockchain/04_block_explorer_ed_analisi_dei_dati.md)
+05. [I wallet di Scrypta](./A_blockchain/05_i_wallet_di_scrypta.md)
 
 ### B - Strumenti di sviluppo
 
-06. IdaNode, come installarlo in locale
-07. Core, la libreria Javascript
-08. Interagire con l'IdaNode attraverso Postman
-09. Interagire con l'IdaNode attraverso Core
+06. [IdaNode, come installarlo in locale](./B_strumenti_di_sviluppo/06_idanode_come_installarlo_in_locale.md)
+07. [Core, la libreria Javascript](./B_strumenti_di_sviluppo/07_core_la_libreria_javascript.md)
+08. [Interagire con l'IdaNode attraverso Postman](./B_strumenti_di_sviluppo/08_interagire_con_idanode_attraverso_postman copy.md)
+09. [Interagire con l'IdaNode attraverso Core](./B_strumenti_di_sviluppo/09_interagire_con_idanode_attraverso_core.md)
 
 ### C - Interagire con la blockchain
 
-10. Creiamo il nostro primo wallet blockchain
-11. Inseriamo il nostro primo dato in blockchain
-12. Tecniche di Progressive Data Management
-13. Importanza delle firme blockchain
-14. Panoramica sugli account multisignature
+10. [Creiamo il nostro primo wallet blockchain](./C_interagire_con_la_blockchain/10_creiamo_il_nostro_primo_wallet_blockchain.md)
+11. [Inseriamo il nostro primo dato in blockchain](./C_interagire_con_la_blockchain/11_inseriamo_il_nostro_primo_dato_in_blockchain.md)
+12. [Tecniche di Progressive Data Management](./C_interagire_con_la_blockchain/12_tecniche_di_progressive_data_management.md)
+13. [Importanza delle firme blockchain](./C_interagire_con_la_blockchain/13_importanza_delle_firme_blockchain.md)
+14. [Panoramica sugli account multisignature](./C_interagire_con_la_blockchain/14_panoramica_account_multisignature.md)
 
 ### D - Planum, il layer di tokenizzazione
 
-15. Panoramica sul mondo dei token
-16. Approfondimento sulle sidechain
-17. Tipologie di sidechain e token
-18. Come creare una nuova sidechain
-19. Come interagire con la sidechain
-20. Tools e software di supporto
+15. [Panoramica sul mondo dei token](./D_planum_layer_di_tokenizzazione/15_panoramica_sul_mondo_dei_token.md)
+16. [Approfondimento sulle sidechain](./D_planum_layer_di_tokenizzazione/16_approfondimento_sulle_sidechain.md)
+17. [Tipologie di sidechain e token](./D_planum_layer_di_tokenizzazione/17_tipologie_di_sidechain_e_token.md)
+18. [Come creare una nuova sidechain](./D_planum_layer_di_tokenizzazione/18_come_creare_una_nuova_sidechain.md)
+19. [Come interagire con la sidechain](./D_planum_layer_di_tokenizzazione/19_come_interagire_con_la_sidechain.md)
+20. [Tools e software di supporto](./D_planum_layer_di_tokenizzazione/20_tools_e_software_di_supporto.md)
 
 ### E - Smart Contracts
 
-21. Panoramica generale
-22. Configurazione ambiente di sviluppo
-23. Scrittura e pubblicazione dello smart contract
-24. Interazione attraverso Core
-25. Interazione attraverso IdaNode
-26. Mantenere online uno smart contract
+21. [Panoramica generale](./E_smart_contracts/21_panoramica_generale.md)
+22. [Configurazione ambiente di sviluppo](./E_smart_contracts/22_configurazione_ambiente_di_sviluppo.md)
+23. [Scrittura e pubblicazione dello smart contract](./E_smart_contracts/23_scrittura_e_pubblicazione_dello_smart_contract.md)
+24. [Interazione attraverso Core](./E_smart_contracts/24_interazione_attraverso_core.md)
+25. [Interazione attraverso IdaNode](./E_smart_contracts/25_interazione_attraverso_idanode.md)
+26. [Mantenere online uno smart contract](./E_smart_contracts/26_mantenere_online_uno_smart_contract.md)
 
 ### F - Creiamo una dApp
 
-27. Strutturazione progetto frontend
-28. Creazione semplice Smart Contract
-29. Impostazione dinamiche di login
-30. Interazione con lo Smart Contract
-31. Pubblicazione della dApp
+27. [Strutturazione progetto frontend](./F_creiamo_una_dapp/27_strutturazione_progetto_frontend.md)
+28. [Creazione semplice Smart Contract](./F_creiamo_una_dapp/28_creazione_semplice_smart_contract.md)
+29. [Impostazione dinamiche di login](./F_creiamo_una_dapp/29_impostazione_dinamiche_di_login.md)
+30. [Interazione con lo Smart Contract](./F_creiamo_una_dapp/30_interazione_con_lo_smart_contract.md)
+31. [Pubblicazione della dApp](./F_creiamo_una_dapp/31_pubblicazione_della_dapp.md)
 
 ### G - Conclusioni
 
-32. Identità digitale decentralizzata
-33. dApp sviluppate da Scrypta Foundation
-34. Contribuire al progetto Scrypta
+32. [Identità digitale decentralizzata](./G_conclusioni/32_identita_digitale_decentralizzata.md)
+33. [dApp sviluppate da Scrypta Foundation](./F_creiamo_una_dapp/33_dapp_sviluppate_da_scrypta_foundation.md)
+34. [Contribuire al progetto Scrypta](./F_creiamo_una_dapp/34_contribuire_al_progetto_scrypta.md)
+34. [Ecosistema Scrypta](./F_creiamo_una_dapp/34_contribuire_al_progetto_scrypta.md)
