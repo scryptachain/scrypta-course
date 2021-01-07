@@ -22,7 +22,7 @@ Sebbene la [wiki](https://scrypta.wiki) sia il posto migliore per iniziare a dar
 
 ### A - Blockchain
 
-01. Come è fatta la blockchain di Scrypta
+01. [Come è fatta la blockchain di Scrypta](./A_blockchain/01_come_è_fatta_la_blockchain_di_scrypta.md)
 02. Tipologie di nodi e loro utilizzi
 03. Account blockchain, identità e transazioni
 04. Block explorer ed analisi dei dati
