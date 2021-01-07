@@ -32,8 +32,8 @@ Sebbene la [wiki](https://scrypta.wiki) sia il posto migliore per iniziare a dar
 
 06. [IdaNode, come installarlo in locale](./B_strumenti_di_sviluppo/06_idanode_come_installarlo_in_locale.md)
 07. [Core, la libreria Javascript](./B_strumenti_di_sviluppo/07_core_la_libreria_javascript.md)
-08. [Interagire con l'IdaNode attraverso Postman](./B_strumenti_di_sviluppo/08_interagire_con_idanode_attraverso_postman copy.md)
-09. [Interagire con l'IdaNode attraverso Core](./B_strumenti_di_sviluppo/09_interagire_con_idanode_attraverso_core.md)
+08. [Postman] (./B_strumenti_di_sviluppo/08_postman.md)
+09. [Interagre attraverso Core](./B_strumenti_di_sviluppo/09_interagire_attraverso_core.md)
 
 ### C - Interagire con la blockchain
 
