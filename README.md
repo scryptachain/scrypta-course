@@ -4,13 +4,13 @@ Scrypta sta preparando un corso di formazione per sviluppatori che permetterà a
 
 Il corso verrà sviluppato in due formati: uno puramente testuale ed uno video, commentato da uno sviluppatore che vi permettrà di seguire gli esempi più facilmente.
 
-Se avete dubbi o volete migliorare questo corso siete liberi di aprire delle [issue](https://github.com/scryptachain/scrypta-development-course/issues), cerheremo di rispondere a tutte le domande e accoglieremo eventuali suggerimenti.
+Se avete dubbi o volete migliorare questo corso siete liberi di aprire delle [issue](https://github.com/scryptachain/scrypta-development-course/issues), cercheremo di rispondere a tutte le domande e accoglieremo eventuali suggerimenti.
 
 ## Informazioni preliminari
 
 Sebbene la [wiki](https://scrypta.wiki) sia il posto migliore per iniziare a dare uno sguardo al mondo Scrypta in generale è meglio fissare alcuni concetti di base all'inizio, così da porre le giuste basi analitiche a tutto lo sviluppo blockchain basato sulla tecnologia Scrypta.
 
-1. Scrypta è una blockchain derivante direttamente da Bitcoin, in quanto fork di PIVX. Non aspettatevi quindi di avere a che fare con qualcosa di simile ad `Ethereum`, sebbene si possano raggiungere gli stessi risultati le dinamiche di base sono diametralmente diverse.
+1. Scrypta è una blockchain derivante direttamente da Bitcoin, in quanto fork di PIVX. Non aspettatevi quindi di avere a che fare con qualcosa di simile ad `Ethereum`, sebbene si possano raggiungere gli stessi risultati, le dinamiche di base sono diametralmente diverse.
 
 2. Gli Smart Contracts (sebbene come vedremo non siano fondamentali per lo sviluppo di un'applicazione decentralizzata) sono comunque presenti ed il linguaggio di programmazione è `Javascript`, anche qui non aspettatevi di vedere `Solidity` come in `Ethereum`.
 
