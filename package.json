@@ -1,0 +1,27 @@
+{
+  "name": "scrypta-development-course",
+  "version": "1.0.0",
+  "description": "Corso per sviluppatori blockchain Scrypta",
+  "main": "index.js",
+  "scripts": {
+    "serve": "serve ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scryptachain/scrypta-developmen-course.git"
+  },
+  "keywords": [
+    "scrypta",
+    "blockchain",
+    "course"
+  ],
+  "author": "Scrypta Foundation",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scryptachain/scrypta-developmen-course/issues"
+  },
+  "homepage": "https://github.com/scryptachain/scrypta-developmen-course#readme",
+  "devDependencies": {
+    "serve": "^11.3.2"
+  }
+}

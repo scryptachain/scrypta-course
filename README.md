@@ -1,8 +1,8 @@
 # Corso per sviluppatori blockchain Scrypta
 
-Scrypta sta preparando un corso di formazione per sviluppatori che permetterà a chiunque di iniziare a mettere le mani "in pasta" e sviluppare applicazioni decentralizzate più o meno complesse.
+Benvenuto nel corso di formazione per sviluppatori blockchain che tu permetterà di iniziare a mettere le mani "in pasta" e sviluppare applicazioni decentralizzate più o meno complesse.
 
-Il corso verrà sviluppato in due formati: uno puramente testuale ed uno video, commentato da uno sviluppatore che vi permettrà di seguire gli esempi più facilmente.
+Il corso verrà sviluppato in due formati: uno puramente testuale ed uno video, commentato da uno sviluppatore che ti permettrà di seguire gli esempi più facilmente.
 
 Se avete dubbi o volete migliorare questo corso siete liberi di aprire delle [issue](https://github.com/scryptachain/scrypta-development-course/issues), cercheremo di rispondere a tutte le domande e accoglieremo eventuali suggerimenti.
 
@@ -10,7 +10,7 @@ Se avete dubbi o volete migliorare questo corso siete liberi di aprire delle [is
 
 Sebbene la [wiki](https://scrypta.wiki) sia il posto migliore per iniziare a dare uno sguardo al mondo Scrypta in generale è meglio fissare alcuni concetti di base all'inizio, così da porre le giuste basi analitiche a tutto lo sviluppo blockchain basato sulla tecnologia Scrypta.
 
-1. Scrypta è una blockchain derivante direttamente da Bitcoin, in quanto fork di PIVX. Non aspettatevi quindi di avere a che fare con qualcosa di simile ad `Ethereum`, sebbene si possano raggiungere gli stessi risultati, le dinamiche di base sono diametralmente diverse.
+1. Scrypta è una blockchain derivante direttamente da Bitcoin, in quanto fork di [PIVX](https://pivx.org/). Non aspettatevi quindi di avere a che fare con qualcosa di simile ad `Ethereum`, sebbene si possano raggiungere gli stessi risultati, le dinamiche di base sono diametralmente diverse.
 
 2. Gli Smart Contracts (sebbene come vedremo non siano fondamentali per lo sviluppo di un'applicazione decentralizzata) sono comunque presenti ed il linguaggio di programmazione è `Javascript`, anche qui non aspettatevi di vedere `Solidity` come in `Ethereum`.
 
@@ -22,7 +22,7 @@ Sebbene la [wiki](https://scrypta.wiki) sia il posto migliore per iniziare a dar
 
 ### A - Blockchain
 
-01. [Come è fatta la blockchain di Scrypta](./A_blockchain/01_come_è_fatta_la_blockchain_di_scrypta.md)
+01. [La blockchain di Scrypta](./A_blockchain/01_come_è_fatta_la_blockchain_di_scrypta.md)
 02. [Tipologie di nodi e loro utilizzi](./A_blockchain/02_tipologie_di_nodi_e_loro_utilizzi.md)
 03. [Account blockchain, identità e transazioni](./A_blockchain/03_account_blockchain_identità_e_transazioni.md)
 04. [Block explorer ed analisi dei dati](./A_blockchain/04_block_explorer_ed_analisi_dei_dati.md)
@@ -43,7 +43,7 @@ Sebbene la [wiki](https://scrypta.wiki) sia il posto migliore per iniziare a dar
 13. [Importanza delle firme blockchain](./C_interagire_con_la_blockchain/13_importanza_delle_firme_blockchain.md)
 14. [Panoramica sugli account multisignature](./C_interagire_con_la_blockchain/14_panoramica_account_multisignature.md)
 
-### D - Planum, il layer di tokenizzazione
+### D - La tokenizzazione
 
 15. [Panoramica sul mondo dei token](./D_planum_layer_di_tokenizzazione/15_panoramica_sul_mondo_dei_token.md)
 16. [Approfondimento sulle sidechain](./D_planum_layer_di_tokenizzazione/16_approfondimento_sulle_sidechain.md)
@@ -72,6 +72,6 @@ Sebbene la [wiki](https://scrypta.wiki) sia il posto migliore per iniziare a dar
 ### G - Conclusioni
 
 32. [Identità digitale decentralizzata](./G_conclusioni/32_identita_digitale_decentralizzata.md)
-33. [dApp sviluppate da Scrypta Foundation](./F_creiamo_una_dapp/33_dapp_sviluppate_da_scrypta_foundation.md)
-34. [Contribuire al progetto Scrypta](./F_creiamo_una_dapp/34_contribuire_al_progetto_scrypta.md)
-34. [Ecosistema Scrypta](./F_creiamo_una_dapp/34_contribuire_al_progetto_scrypta.md)
+33. [dApp sviluppate da Scrypta Foundation](./G_conclusioni/33_dapp_sviluppate_da_scrypta_foundation.md)
+34. [Contribuire al progetto Scrypta](./G_conclusioni/34_contribuire_al_progetto_scrypta.md)
+34. [Ecosistema Scrypta](./G_conclusioni/35_contribuire_al_progetto_scrypta.md)

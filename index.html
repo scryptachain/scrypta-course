@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Scrypta | Corso per sviluppatori blockchain</title>
+    <link rel="stylesheet" href="https://unpkg.com/docute@4/dist/docute.css">
+    <link rel="icon" type="image/png" href="/_assets/icon_128.png">
+</head>
+<style>
+    .ItemTitle span {
+        font-size: 16px !important;
+        font-weight: bold !important;
+    }
+
+    h1 {
+        font-size: 2rem !important;
+    }
+
+    h2 {
+        font-size: 1.5rem !important;
+        margin-top: 30px !important;
+    }
+
+    h4 {
+        font-size: 1rem !important;
+    }
+</style>
+
+<body>
+    <div id="docute"></div>
+    <script src="https://unpkg.com/docute@4/dist/docute.js"></script>
+    <script>
+        new Docute({
+            target: '#docute',
+            highlight: ['typescript', 'javascript'],
+            logo: '<img src="/_assets/logo_256.png" height="30" style="margin-top:15px"> DEV',
+            darkThemeToggler: true,
+            imageZoom: true,
+            nav: [
+                {
+                    title: "Website",
+                    link: "https://scryptachain.org"
+                },
+                {
+                    title: "GitHub",
+                    link: "https://github.com/scryptachain"
+                },
+                {
+                    title: "Community",
+                    link: "https://discord.io/scrypta"
+                }
+            ],
+            sidebar: [
+                {
+                    title: 'Blockchain',
+                    collapsable: true,
+                    children: [
+                        {
+                            title: "La blockchain di Scrypta",
+                            link: "/A_blockchain/01_la_blockchain_di_scrypta"
+                        },
+                        {
+                            title: "Tipologie di nodi",
+                            link: "/A_blockchain/02_tipologie_di_nodi_e_loro_utilizzo"
+                        },
+                        {
+                            title: "Account blockchain, identità e transazioni",
+                            link: "/A_blockchain/03_account_blockchain_identità_e_transazioni"
+                        },
+                        {
+                            title: "Account blockchain, identità e transazioni",
+                            link: "/A_blockchain/03_account_blockchain_identità_e_transazioni"
+                        },
+                        {
+                            title: "Block explorer ed analisi dei dati",
+                            link: "/A_blockchain/04_block_explorer_ed_analisi_dei_dati"
+                        },
+                        {
+                            title: "I wallet di Scrypta",
+                            link: "/A_blockchain/05_i_wallet_di_scrypta"
+                        },
+                    ]
+                },
+                {
+                    title: 'Strumenti di sviluppo',
+                    collapsable: true,
+                    children: [
+                        {
+                            title: "IdaNode, come installarlo in locale",
+                            link: "/B_strumenti_di_sviluppo/06_idanode_come_installarlo_in_locale"
+                        },
+                        {
+                            title: "Core, la libreria Javascript",
+                            link: "/B_strumenti_di_sviluppo/07_core_la_libreria_javascript"
+                        },
+                        {
+                            title: "Postman",
+                            link: "/B_strumenti_di_sviluppo/08_postman"
+                        },
+                        {
+                            title: "Interagre attraverso Core",
+                            link: "/B_strumenti_di_sviluppo/09_interagire_attraverso_core"
+                        },
+                    ]
+                },
+                {
+                    title: 'Interagire con la blockchain',
+                    collapsable: true,
+                    children: [
+                        {
+                            title: "Creiamo il nostro primo wallet blockchain",
+                            link: "/C_interagire_con_la_blockchain/10_creiamo_il_nostro_primo_wallet_blockchain"
+                        },
+                        {
+                            title: "Inseriamo il nostro primo dato in blockchaint",
+                            link: "/C_interagire_con_la_blockchain/11_inseriamo_il_nostro_primo_dato_in_blockchain"
+                        },
+                        {
+                            title: "Tecniche di Progressive Data Management",
+                            link: "/C_interagire_con_la_blockchain/12_tecniche_di_progressive_data_management"
+                        },
+                        {
+                            title: "Importanza delle firme blockchain",
+                            link: "/C_interagire_con_la_blockchain/13_importanza_delle_firme_blockchain"
+                        },
+                        {
+                            title: "Panoramica sugli account multisignature",
+                            link: "/C_interagire_con_la_blockchain/14_panoramica_account_multisignature"
+                        },
+                    ]
+                },
+                {
+                    title: 'La tokenizzazione',
+                    collapsable: true,
+                    children: [
+                        {
+                            title: "Creiamo il nostro primo wallet blockchain",
+                            link: "/C_interagire_con_la_blockchain/15_panoramica_sul_mondo_dei_token"
+                        },
+                        {
+                            title: "[Approfondimento sulle sidechain",
+                            link: "/C_interagire_con_la_blockchain/16_approfondimento_sulle_sidechain"
+                        },
+                        {
+                            title: "Tipologie di sidechain e token",
+                            link: "/C_interagire_con_la_blockchain/17_tipologie_di_sidechain_e_token"
+                        },
+                        {
+                            title: "Come creare una nuova sidechain",
+                            link: "/C_interagire_con_la_blockchain/18_come_creare_una_nuova_sidechain"
+                        },
+                        {
+                            title: "Come interagire con la sidechain",
+                            link: "/C_interagire_con_la_blockchain/19_come_interagire_con_la_sidechain"
+                        },
+                        {
+                            title: "Tools e software di supporto",
+                            link: "/C_interagire_con_la_blockchain/20_tools_e_software_di_supporto"
+                        },
+                    ]
+                },
+                {
+                    title: 'Smart Contracts',
+                    collapsable: true,
+                    children: [
+                        {
+                            title: "Panoramica generale",
+                            link: "/E_smart_contracts/21_panoramica_generale"
+                        },
+                        {
+                            title: "Configurazione ambiente di sviluppo",
+                            link: "/E_smart_contracts/22_configurazione_ambiente_di_sviluppo"
+                        },
+                        {
+                            title: "Scrittura e pubblicazione dello smart contract",
+                            link: "/E_smart_contracts/23_scrittura_e_pubblicazione_dello_smart_contract"
+                        },
+                        {
+                            title: "Interazione attraverso Core",
+                            link: "/E_smart_contracts/24_interazione_attraverso_core"
+                        },
+                        {
+                            title: "[Interazione attraverso IdaNode",
+                            link: "/E_smart_contracts/25_interazione_attraverso_idanode"
+                        },
+                        {
+                            title: "[Mantenere online uno smart contract",
+                            link: "/E_smart_contracts/14_panoramica_account_multisignature"
+                        },
+                    ]
+                },
+                {
+                    title: 'Creiamo una dApp',
+                    collapsable: true,
+                    children: [
+                        {
+                            title: "Strutturazione progetto frontend",
+                            link: "/F_creiamo_una_dapp/27_strutturazione_progetto_frontend"
+                        },
+                        {
+                            title: "Creazione semplice Smart Contract",
+                            link: "/F_creiamo_una_dapp/28_creazione_semplice_smart_contract"
+                        },
+                        {
+                            title: "Impostazione dinamiche di login",
+                            link: "/F_creiamo_una_dapp/29_impostazione_dinamiche_di_login"
+                        },
+                        {
+                            title: "Interazione con lo Smart Contract",
+                            link: "/F_creiamo_una_dapp/30_interazione_con_lo_smart_contract"
+                        },
+                        {
+                            title: "Pubblicazione della dApp",
+                            link: "/F_creiamo_una_dapp/31_pubblicazione_della_dapp"
+                        },
+                    ]
+                },
+                {
+                    title: 'Conclusioni',
+                    collapsable: true,
+                    children: [
+                        {
+                            title: "Identità digitale decentralizzata",
+                            link: "/G_conclusioni/32_identita_digitale_decentralizzata"
+                        },
+                        {
+                            title: "dApp sviluppate da Scrypta Foundation",
+                            link: "/G_conclusioni/33_dapp_sviluppate_da_scrypta_foundation"
+                        },
+                        {
+                            title: "Contribuire al progetto Scrypta",
+                            link: "/G_conclusioni/34_contribuire_al_progetto_scrypta"
+                        },
+                        {
+                            title: "Ecosistema Scrypta",
+                            link: "/G_conclusioni/35_contribuire_al_progetto_scrypta"
+                        },
+                    ]
+                }
+            ]
+        })
+    </script>
+</body>
+
+</html>
