@@ -1,2 +1,0 @@
-# I wallet di Scrypta
-
