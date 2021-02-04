@@ -18,6 +18,10 @@ Sebbene la [wiki](https://scrypta.wiki) sia il posto migliore per iniziare a dar
 
 4. Cercheremo invece di non dare per scontato nulla che abbia a che fare con la crittografia, con le firme, con gli indirizzi etc. Se non avete mai sentito parlare di blockchain state tranquilli, riusciremo a darvi un'infarinatura di base.
 
+# Ambiente di sviluppo
+
+Questo corso è scritto su Linux (nello specifico Manjaro) e tutti i tool di sviluppo vengono testati su questo ambiente. Si consiglia fortemente quindi di seguire questo corso da Linux o da una macchina virtuale con installato Linux.
+
 ## Indice del corso
 
 ### A - Blockchain
