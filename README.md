@@ -26,11 +26,10 @@ Questo corso è scritto su Linux (nello specifico Manjaro) e tutti i tool di svi
 
 ### A - Blockchain
 
-01. [La blockchain di Scrypta](./A_blockchain/01_come_è_fatta_la_blockchain_di_scrypta.md)
-02. [Tipologie di nodi e loro utilizzi](./A_blockchain/02_tipologie_di_nodi_e_loro_utilizzi.md)
+01. [La blockchain di Scrypta](./A_blockchain/01_la_blockchain_di_scrypta.md)
+02. [Tipologie di nodi e loro utilizzi](./A_blockchain/02_tipologie_di_nodi_e_loro_utilizzo.md)
 03. [Account blockchain, identità e transazioni](./A_blockchain/03_account_blockchain_identità_e_transazioni.md)
 04. [Block explorer ed analisi dei dati](./A_blockchain/04_block_explorer_ed_analisi_dei_dati.md)
-05. [I wallet di Scrypta](./A_blockchain/05_i_wallet_di_scrypta.md)
 
 ### B - Strumenti di sviluppo
 
