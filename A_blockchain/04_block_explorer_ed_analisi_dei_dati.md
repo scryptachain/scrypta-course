@@ -10,9 +10,7 @@ Ecco l'elenco dei block explorer:
 
 - BlockBook: https://bb.scryptachain.org (un block explorer generico)
 
-- Explorer 1: https://explorer.scryptachain.org (contenente più informazioni riguardo lo staking etc)
-
-- Explorer 2: https://chainz.cryptoid.info/lyra/ (contenente più informazioni riguardo il network e la distribuzione)
+- Explorer Staking: https://explorer.scryptachain.org (contenente più informazioni riguardo lo staking etc)
 
 - Proof: https://proof.scryptachain.org (contenente unicamente i dati scritti in blockchain)
 
